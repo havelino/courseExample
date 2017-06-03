@@ -1,0 +1,26 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "codigo demo en curso",
+  "main": "simpleApp.js",
+  "scripts": {
+    "test": "node exampleApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havelino/courseExample.git"
+  },
+  "keywords": [
+    "example",
+    "node"
+  ],
+  "author": "HAH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/havelino/courseExample/issues"
+  },
+  "homepage": "https://github.com/havelino/courseExample#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
